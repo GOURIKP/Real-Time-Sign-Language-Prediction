@@ -58,11 +58,11 @@ The model achieves an accuracy of 0.99 on the test set. Below are some performan
 ![Loss](images/loss.png)
 
 ## Interface
-### Main Screen
-![Main Screen](images/main_screen.png)
+### Prediction
+![Alphabet F](https://github.com/GOURIKP/Real-Time-Sign-Language-Prediction/blob/main/Related_images/F.png)
 
 ### Real-Time Prediction
-![Real-Time Prediction](images/real_time_prediction.png)
+![Alphabet Y](https://github.com/GOURIKP/Real-Time-Sign-Language-Prediction/blob/main/Related_images/Y.png)
 
 ## Contributing
 Contributions are welcome! Please fork this repository and submit pull requests for any features, improvements, or bug fixes.
