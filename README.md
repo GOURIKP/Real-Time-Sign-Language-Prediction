@@ -52,31 +52,24 @@ The project utilizes the VGG16 model, a pre-trained convolutional neural network
 The model achieves an accuracy of 0.99 on the test set. Below are some performance metrics and visualizations:
 
 ### Accuracy
-![Accuracy](images/accuracy.png)
+![Accuracy](https://github.com/GOURIKP/Real-Time-Sign-Language-Prediction/blob/main/Related_images/training%20accuracy.png)
 
 ### Loss
-![Loss](images/loss.png)
+![Loss](https://github.com/GOURIKP/Real-Time-Sign-Language-Prediction/blob/main/Related_images/training%20loss.png)
+
+### Confusion Matrix
+![Confusion Matrix](https://github.com/GOURIKP/Real-Time-Sign-Language-Prediction/blob/main/Related_images/Confusion%20matrix-sign.png)
 
 ## Interface
-### Prediction
+### Real-Time-Prediction
 ![Alphabet F](https://github.com/GOURIKP/Real-Time-Sign-Language-Prediction/blob/main/Related_images/F.png)
 
-### Real-Time Prediction
 ![Alphabet Y](https://github.com/GOURIKP/Real-Time-Sign-Language-Prediction/blob/main/Related_images/Y.png)
 
 ## Contributing
 Contributions are welcome! Please fork this repository and submit pull requests for any features, improvements, or bug fixes.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgements
 - The [ASL Alphabet Dataset](https://www.kaggle.com/datasets/grassknoted/asl-alphabet) provided by GrassKnoted on Kaggle.
 - The developers and maintainers of TensorFlow, Keras, OpenCV, and Streamlit for their invaluable tools and libraries.
-
-## Contact
-For any inquiries or issues, please open an issue on GitHub or contact the repository owner at [your-email@example.com].
-
----
-
-Feel free to reach out if you have any questions or need further assistance with the project!
