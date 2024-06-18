@@ -9,6 +9,12 @@ This project aims to predict American Sign Language (ASL) gestures for alphabets
 - **User-friendly interface built with Streamlit**
 - **High accuracy of 0.99**
 
+## Interface
+### Real-Time-Prediction
+![Alphabet F](https://github.com/GOURIKP/Real-Time-Sign-Language-Prediction/blob/main/Related_images/F.png)
+
+![Alphabet Y](https://github.com/GOURIKP/Real-Time-Sign-Language-Prediction/blob/main/Related_images/Y.png)
+
 ## Dataset
 The project uses the ASL Alphabet Dataset from Kaggle:
 [ASL Alphabet Dataset](https://www.kaggle.com/datasets/grassknoted/asl-alphabet)
@@ -60,11 +66,6 @@ The model achieves an accuracy of 0.99 on the test set. Below are some performan
 ### Confusion Matrix
 ![Confusion Matrix](https://github.com/GOURIKP/Real-Time-Sign-Language-Prediction/blob/main/Related_images/Confusion%20matrix-sign.png)
 
-## Interface
-### Real-Time-Prediction
-![Alphabet F](https://github.com/GOURIKP/Real-Time-Sign-Language-Prediction/blob/main/Related_images/F.png)
-
-![Alphabet Y](https://github.com/GOURIKP/Real-Time-Sign-Language-Prediction/blob/main/Related_images/Y.png)
 
 ## Contributing
 Contributions are welcome! Please fork this repository and submit pull requests for any features, improvements, or bug fixes.
